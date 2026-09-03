@@ -5,6 +5,6 @@ public class StudentRepository {
         int a = 5;
         int b = 3;
         int resultado = a + b;
-        System.out.println("Resultado: " + resultado);
+        System.out.println("Resultado 2: " + resultado);
     }
 }
