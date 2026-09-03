@@ -2,6 +2,6 @@ package pe.edu.tecsup.lab03.entities;
 
 public class StudentEntity {
     public static String saludar() {
-        return "Hola desde StudentEntity fabian ramirez";
+        return "Hola desde StudentEntity fabian ramirez VERSION 2";
     }
 }
